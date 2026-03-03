@@ -1,24 +1,24 @@
 # 💫 About Me:
 # Hi there! 👋
 
-[span_0](start_span)I'm **P Jayakrishna Reddy**, a Data Scientist and AI fresher based in Hyderabad[span_0](end_span). [span_1](start_span)I have hands-on experience in Generative AI, Deep Learning, Machine Learning, Python, and SQL[span_1](end_span). [span_2](start_span)I specialize in building end-to-end AI solutions[span_2](end_span). [span_3](start_span)My focus ranges from developing RAG-based enterprise assistants using LangChain and local LLMs to training custom neural networks for real-time computer vision and time-series forecasting[span_3](end_span). [span_4](start_span)I am passionate about taking complex data and deploying it into intuitive, real-world web applications[span_4](end_span).
+I'm **P Jayakrishna Reddy**, a Data Scientist and AI fresher based in Hyderabad. I have hands-on experience in Generative AI, Deep Learning, Machine Learning, Python, and SQL. I specialize in building end-to-end AI solutions. My focus ranges from developing RAG-based enterprise assistants using LangChain and local LLMs to training custom neural networks for real-time computer vision and time-series forecasting. I am passionate about taking complex data and deploying it into intuitive, real-world web applications.
 
 ## 🌟 What I Do:
-- **[span_5](start_span)Generative AI & LLMs**: I build enterprise-level RAG applications for policy Q&A[span_5](end_span). [span_6](start_span)[span_7](start_span)I utilize tools like LangChain, FAISS, and Ollama to process PDFs and integrate local LLM inference[span_6](end_span)[span_7](end_span).
-- **[span_8](start_span)Deep Learning & Computer Vision**: I design real-time systems using CNNs and YOLO to detect audience demographics[span_8](end_span). [span_9](start_span)I also develop LSTM-based time-series models for operational efficiency forecasting[span_9](end_span).
-- **[span_10](start_span)Machine Learning**: I build end-to-end machine learning pipelines[span_10](end_span). [span_11](start_span)[span_12](start_span)[span_13](start_span)I perform data preprocessing, feature engineering, and hyperparameter tuning using Scikit-learn and XGBoost[span_11](end_span)[span_12](end_span)[span_13](end_span).
-- **[span_14](start_span)[span_15](start_span)[span_16](start_span)Deployment**: I deploy my models into interactive web applications using Streamlit and FastAPI[span_14](end_span)[span_15](end_span)[span_16](end_span).
+- **Generative AI & LLMs**: I build enterprise-level RAG applications for policy Q&A. I utilize tools like LangChain, FAISS, and Ollama to process PDFs and integrate local LLM inference.
+- **Deep Learning & Computer Vision**: I design real-time systems using CNNs and YOLO to detect audience demographics. I also develop LSTM-based time-series models for operational efficiency forecasting.
+- **Machine Learning**: I build end-to-end machine learning pipelines. I perform data preprocessing, feature engineering, and hyperparameter tuning using Scikit-learn and XGBoost.
+- **Deployment**: I deploy my models into interactive web applications using Streamlit and FastAPI.
 
 ## 🚀 Featured Projects:
-- **[span_17](start_span)Enterprise Knowledge RAG Assistant**: I developed a RAG application that processed and embedded over 50 PDF policy documents[span_17](end_span). [span_18](start_span)It uses local LLM inference via Gemma and Ollama, delivered through a Streamlit interface for source-backed answers[span_18](end_span).
-- **[span_19](start_span)Vision-Powered Intelligent Advertising System**: I designed a real-time ad recommendation system using deep learning to detect audience demographics[span_19](end_span). [span_20](start_span)It intelligently selects male-focused, female-focused, or neutral ads based on group composition[span_20](end_span).
-- **[span_21](start_span)TBM Operational Efficiency Forecasting**: I built an LSTM-based time-series model to predict Tunnel Boring Machine operational efficiency[span_21](end_span). [span_22](start_span)This model achieved strong regression performance with $R^{2}\approx0.87$[span_22](end_span).
-- **[span_23](start_span)Used Car Price Prediction**: I built an end-to-end machine learning pipeline using XGBoost on over 5,000 records[span_23](end_span). [span_24](start_span)[span_25](start_span)The model achieved a 90+ percent R2 score on test data and was deployed as a Streamlit web application[span_24](end_span)[span_25](end_span).
+- **Enterprise Knowledge RAG Assistant**: I developed a RAG application that processed and embedded over 50 PDF policy documents. It uses local LLM inference via Gemma and Ollama, delivered through a Streamlit interface for source-backed answers.
+- **Vision-Powered Intelligent Advertising System**: I designed a real-time ad recommendation system using deep learning to detect audience demographics. It intelligently selects male-focused, female-focused, or neutral ads based on group composition.
+- **TBM Operational Efficiency Forecasting**: I built an LSTM-based time-series model to predict Tunnel Boring Machine operational efficiency. This model achieved strong regression performance with R² ≈ 0.87.
+- **Used Car Price Prediction**: I built an end-to-end machine learning pipeline using XGBoost on over 5,000 records. The model achieved a 90+ percent R2 score on test data and was deployed as a Streamlit web application.
 
 ## 🎓 Education & Certifications:
-- **[span_26](start_span)Bachelor of Science and Technology**: Mahaveer Institute of Science and Technology (07/2019 - 06/2023)[span_26](end_span).
-- **[span_27](start_span)Data Science**: Innomatics Research Labs (12/2025)[span_27](end_span).
-- **[span_28](start_span)Python for Data Science**: IBM via Coursera[span_28](end_span).
+- **Bachelor of Science and Technology**: Mahaveer Institute of Science and Technology (07/2019 - 06/2023).
+- **Data Science**: Innomatics Research Labs (12/2025).
+- **Python for Data Science**: IBM via Coursera.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayakrishna-reddy-policepatel-22se2) 
@@ -44,4 +44,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Jayakrishna143&icon=0&color=0)](https://visitcount.itsvg.in)
-
