@@ -1,38 +1,43 @@
 # 💫 About Me:
 # Hi there! 👋
 
-I'm **P Jayakrishna Reddy**, an aspiring **Data Analyst** with a passion for turning raw data into actionable insights. Currently, I'm training for this role at a coaching center, mastering a wide range of tools and technologies to excel in data analysis and visualization.
+[span_0](start_span)I'm **P Jayakrishna Reddy**, a Data Scientist and AI fresher based in Hyderabad[span_0](end_span). [span_1](start_span)I have hands-on experience in Generative AI, Deep Learning, Machine Learning, Python, and SQL[span_1](end_span). [span_2](start_span)I specialize in building end-to-end AI solutions[span_2](end_span). [span_3](start_span)My focus ranges from developing RAG-based enterprise assistants using LangChain and local LLMs to training custom neural networks for real-time computer vision and time-series forecasting[span_3](end_span). [span_4](start_span)I am passionate about taking complex data and deploying it into intuitive, real-world web applications[span_4](end_span).
 
 ## 🌟 What I Do:
-- **Analyze and visualize data** to derive meaningful insights and support decision-making.
-- Work with popular data analysis tools, including:
-  - **Programming**: Python (Pandas, NumPy, Matplotlib)
-  - **Visualization**: Power BI, Matplotlib
-  - **Databases**: SQL
-  - **Productivity Tools**: MS Excel, PowerPoint
+- **[span_5](start_span)Generative AI & LLMs**: I build enterprise-level RAG applications for policy Q&A[span_5](end_span). [span_6](start_span)[span_7](start_span)I utilize tools like LangChain, FAISS, and Ollama to process PDFs and integrate local LLM inference[span_6](end_span)[span_7](end_span).
+- **[span_8](start_span)Deep Learning & Computer Vision**: I design real-time systems using CNNs and YOLO to detect audience demographics[span_8](end_span). [span_9](start_span)I also develop LSTM-based time-series models for operational efficiency forecasting[span_9](end_span).
+- **[span_10](start_span)Machine Learning**: I build end-to-end machine learning pipelines[span_10](end_span). [span_11](start_span)[span_12](start_span)[span_13](start_span)I perform data preprocessing, feature engineering, and hyperparameter tuning using Scikit-learn and XGBoost[span_11](end_span)[span_12](end_span)[span_13](end_span).
+- **[span_14](start_span)[span_15](start_span)[span_16](start_span)Deployment**: I deploy my models into interactive web applications using Streamlit and FastAPI[span_14](end_span)[span_15](end_span)[span_16](end_span).
 
-## 🎯 My Goal:
-I aim to blend generalist knowledge of **daily, scientific, and business insights** with traditional data analysis techniques to bring a unique perspective to data-driven problem-solving.
+## 🚀 Featured Projects:
+- **[span_17](start_span)Enterprise Knowledge RAG Assistant**: I developed a RAG application that processed and embedded over 50 PDF policy documents[span_17](end_span). [span_18](start_span)It uses local LLM inference via Gemma and Ollama, delivered through a Streamlit interface for source-backed answers[span_18](end_span).
+- **[span_19](start_span)Vision-Powered Intelligent Advertising System**: I designed a real-time ad recommendation system using deep learning to detect audience demographics[span_19](end_span). [span_20](start_span)It intelligently selects male-focused, female-focused, or neutral ads based on group composition[span_20](end_span).
+- **[span_21](start_span)TBM Operational Efficiency Forecasting**: I built an LSTM-based time-series model to predict Tunnel Boring Machine operational efficiency[span_21](end_span). [span_22](start_span)This model achieved strong regression performance with $R^{2}\approx0.87$[span_22](end_span).
+- **[span_23](start_span)Used Car Price Prediction**: I built an end-to-end machine learning pipeline using XGBoost on over 5,000 records[span_23](end_span). [span_24](start_span)[span_25](start_span)The model achieved a 90+ percent R2 score on test data and was deployed as a Streamlit web application[span_24](end_span)[span_25](end_span).
 
-## 🚀 Fun Fact:
-I love exploring hidden patterns in data and finding creative ways to present insights that tell a compelling story! 📊✨
-
-Feel free to connect or check out my projects as I grow and share my journey in the world of data analytics!
-
-
+## 🎓 Education & Certifications:
+- **[span_26](start_span)Bachelor of Science and Technology**: Mahaveer Institute of Science and Technology (07/2019 - 06/2023)[span_26](end_span).
+- **[span_27](start_span)Data Science**: Innomatics Research Labs (12/2025)[span_27](end_span).
+- **[span_28](start_span)Python for Data Science**: IBM via Coursera[span_28](end_span).
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/jayakrishna-reddy-policepatel-22se2
-) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayakrishna-reddy-policepatel-22se2) 
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jayakrishna143)
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+**Languages & Databases:**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+
+**AI, ML & Data Science:**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
+**Frameworks & Deployment:**
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Jayakrishna143&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jayakrishna143&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayakrishna143&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Jayakrishna143&limit=5&theme=dark&combine_all_yearly_contributions=true)
@@ -40,4 +45,3 @@ Feel free to connect or check out my projects as I grow and share my journey in 
 ---
 [![](https://visitcount.itsvg.in/api?id=Jayakrishna143&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
